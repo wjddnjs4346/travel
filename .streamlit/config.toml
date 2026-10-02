@@ -1,0 +1,11 @@
+# Streamlit 설정 (배포에도 그대로 쓰인다)
+[client]
+toolbarMode = "viewer"
+showSidebarNavigation = false
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+backgroundColor = "#f2f2f2"
